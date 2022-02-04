@@ -1,0 +1,24 @@
+{
+    "vscode-neovim.neovimExecutablePaths.linux": "/usr/bin/nvim",
+    "workbench.colorTheme": "Tokyo City",
+    "vscode-neovim.mouseSelectionStartVisualMode": true,
+    "editor.copyWithSyntaxHighlighting": false,
+    "vscode-neovim.logLevel": "warn",
+    "vscode-neovim.logOutputToConsole": true,
+    "workbench.preferredDarkColorTheme": "Tokyo City",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.fontFamily": "'Cascadia Code PL', 'CascadiaCodePL', Consolas",
+    "editor.fontLigatures": true,
+    "files.exclude": {
+        "**/.DS_Store": false,
+        "**/.git": false,
+        "**/.hg": false,
+        "**/.svn": false,
+        "**/CVS": false,
+        "**/Thumbs.db": false
+    },
+    "vscode-neovim.neovimInitVimPaths.linux": "~/.config/nvim/vscode.vim",
+    "prettier.tabWidth": 4,
+    "prettier.printWidth": 10000,
+    "editor.minimap.enabled": false
+}
